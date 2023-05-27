@@ -18,6 +18,6 @@
 <p align="center"><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rt-troy&show_icons=true&locale=en&layout=compact" alt="rt-troy" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rt-troy&" alt="rt-troy" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rt-troy&layout=compact" alt="rt-troy" /></p>
+  <p><img align="center" src="https://streak-stats.demolab.com?user=rT-Troy&theme=omni&mode=weekly" alt="rt-troy" /></p>
 </div>
