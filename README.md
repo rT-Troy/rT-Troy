@@ -3,9 +3,9 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** <br>
-✔ I’m currently learning **PyTorch**<br>
+✔ I’m currently learning **Node.js**, **Haskell**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Deep Learning**<br>
+✔ I’m looking for help for learning **Haskell**, **Node.js**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *I DO MAGIC*<br><br><br><br>
 
